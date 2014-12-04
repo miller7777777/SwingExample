@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84c52824-b345-4991-8919-e50fab2fc55e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/Main.java" afterPath="$PROJECT_DIR$/src/com/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="4666d1ea-0377-4b39-906b-eecae15acf7b" name="Rejected commit: Default" comment="Текстовый редактор" />
@@ -33,8 +32,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="6.328982" vertical-offset="936" max-vertical-offset="4128">
-              <caret line="140" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.50130546" vertical-offset="936" max-vertical-offset="4128">
+              <caret line="47" column="59" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2052#2222#0" expanded="true" />
@@ -454,7 +453,7 @@
       <created>1417710556883</created>
       <option name="number" value="Default" />
       <updated>1417710556883</updated>
-      <workItem from="1417710560053" duration="15426000" />
+      <workItem from="1417710560053" duration="15506000" />
     </task>
     <task id="LOCAL-00001" summary="Текстовый редактор;">
       <created>1417727422031</created>
@@ -486,11 +485,17 @@
       <option name="project" value="LOCAL" />
       <updated>1417730279227</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Текстовый редактор; &#10;&#10;Добавил кнопки:&#10;&#10;Underline пока не знаю, как сделать.&#10;&#10;Добавил включение-выключение bold и italic повторным нажатием на кнопки&#10;&#10;Хорошо бы вид нажатых кнопок менялся.&#10;&#10;В визуальном редакторе было бы проще.&#10;&#10;">
+      <created>1417732122656</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1417732122656</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15426000" />
+    <option name="totallyTimeSpent" value="15506000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -564,7 +569,8 @@
     <MESSAGE value="Текстовый редактор;" />
     <MESSAGE value="Текстовый редактор; &#10;&#10;Добавил кнопки:&#10;&#10;Bold'&#10;Italic;&#10;Underline;&#10;&#10;Пока не работают;" />
     <MESSAGE value="Текстовый редактор; &#10;&#10;Добавил кнопки:&#10;&#10;Underline пока не знаю, как сделать.&#10;&#10;Добавил включение-выключение bold и italic повторным нажатием на кнопки&#10;&#10;Хорошо бы вид нажатых кнопок менялся.&#10;&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Текстовый редактор; &#10;&#10;Добавил кнопки:&#10;&#10;Underline пока не знаю, как сделать.&#10;&#10;Добавил включение-выключение bold и italic повторным нажатием на кнопки&#10;&#10;Хорошо бы вид нажатых кнопок менялся.&#10;&#10;" />
+    <MESSAGE value="Текстовый редактор; &#10;&#10;Добавил кнопки:&#10;&#10;Underline пока не знаю, как сделать.&#10;&#10;Добавил включение-выключение bold и italic повторным нажатием на кнопки&#10;&#10;Хорошо бы вид нажатых кнопок менялся.&#10;&#10;В визуальном редакторе было бы проще.&#10;&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Текстовый редактор; &#10;&#10;Добавил кнопки:&#10;&#10;Underline пока не знаю, как сделать.&#10;&#10;Добавил включение-выключение bold и italic повторным нажатием на кнопки&#10;&#10;Хорошо бы вид нажатых кнопок менялся.&#10;&#10;В визуальном редакторе было бы проще.&#10;&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -577,8 +583,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="6.328982" vertical-offset="936" max-vertical-offset="4128">
-          <caret line="140" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.50130546" vertical-offset="936" max-vertical-offset="4128">
+          <caret line="47" column="59" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2052#2222#0" expanded="true" />
