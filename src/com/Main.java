@@ -7,6 +7,7 @@ import java.awt.event.ActionListener;
 
 /**
  * Created by vladimir on 04.12.14.
+ * Modificated by Miller777 on 05.12.2014.
  */
 public class Main {
 
@@ -107,10 +108,10 @@ public class Main {
 
                 if(!boldFlag) {
                     boldFlag = true;
-                    textArea.setFont(new Font("", Font.BOLD, fontSize));
+                    textArea.setFont(new Font("Arial", Font.BOLD, fontSize));
                 }else {
                     boldFlag = false;
-                    textArea.setFont(new Font("", Font.PLAIN, fontSize));
+                    textArea.setFont(new Font("Arial", Font.PLAIN, fontSize));
 
                 }
             }
@@ -124,10 +125,10 @@ public class Main {
                     italicFlag = true;
 
 
-                    textArea.setFont(new Font("", Font.ITALIC, fontSize));
+                    textArea.setFont(new Font("Arial", Font.ITALIC, fontSize));
                 }else {
                     italicFlag = false;
-                    textArea.setFont(new Font("", Font.PLAIN, fontSize));
+                    textArea.setFont(new Font("Arial", Font.PLAIN, fontSize));
 
                 }
             }
@@ -138,7 +139,7 @@ public class Main {
             public void actionPerformed(ActionEvent e) {
 
 
-                textArea.setFont(new Font("", Font.PLAIN, fontSize));
+                textArea.setFont(new Font("Arial", 0, fontSize));
             }
         });
 
