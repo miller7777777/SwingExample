@@ -16,6 +16,9 @@ public class Main {
     private JButton loadButton;
     private JButton upFontButton;
     private JButton downFontButton;
+    private JButton boldFontButton;
+    private JButton italicFontButton;
+    private JButton underlineFontButton;
     private String buffer = "";
     private int fontSize = 25;
 
@@ -41,7 +44,7 @@ public class Main {
         JPanel supportButtonPanel = new JPanel();
         supportButtonPanel.setLayout(new GridLayout(1, 3));
         JPanel fontButtonPanel = new JPanel();
-        fontButtonPanel.setLayout(new GridLayout(1, 2));
+        fontButtonPanel.setLayout(new GridLayout(1, 5));
 
         textArea = new JTextArea();
         clearButton = new JButton("Clear");
@@ -49,6 +52,9 @@ public class Main {
         loadButton = new JButton("Load");
         upFontButton = new JButton("Up font size");
         downFontButton = new JButton("Down font size");
+        boldFontButton = new JButton("Bold");
+        italicFontButton = new JButton("Italic");
+        underlineFontButton = new JButton("Underline");
 
         textArea.setFont(new Font("Arial", 0, fontSize));
 
@@ -82,6 +88,8 @@ public class Main {
             }
         });
 
+
+
         downFontButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -91,12 +99,42 @@ public class Main {
             }
         });
 
+        boldFontButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+
+
+                // textArea.setFont(new Font("Arial", 0, fontSize));
+            }
+        });
+
+        italicFontButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+
+
+                // textArea.setFont(new Font("Arial", 0, fontSize));
+            }
+        });
+
+        underlineFontButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+
+
+                // textArea.setFont(new Font("Arial", 0, fontSize));
+            }
+        });
+
         supportButtonPanel.add(saveButton);
         supportButtonPanel.add(loadButton);
         supportButtonPanel.add(clearButton);
 
         fontButtonPanel.add(upFontButton);
         fontButtonPanel.add(downFontButton);
+        fontButtonPanel.add(boldFontButton);
+        fontButtonPanel.add(italicFontButton);
+        fontButtonPanel.add(underlineFontButton);
 
         buttonPanel.add(supportButtonPanel);
         buttonPanel.add(fontButtonPanel);
