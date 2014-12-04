@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84c52824-b345-4991-8919-e50fab2fc55e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main$1.class" afterPath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main$1.class" />
-      <change type="MODIFICATION" beforePath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main$2.class" afterPath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main$2.class" />
-      <change type="MODIFICATION" beforePath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main$3.class" afterPath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main$3.class" />
-      <change type="MODIFICATION" beforePath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main$4.class" afterPath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main$4.class" />
-      <change type="MODIFICATION" beforePath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main$5.class" afterPath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main$5.class" />
-      <change type="MODIFICATION" beforePath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main.class" afterPath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/Main.java" afterPath="$PROJECT_DIR$/src/com/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="4666d1ea-0377-4b39-906b-eecae15acf7b" name="Rejected commit: Default" comment="Текстовый редактор" />
@@ -460,7 +453,7 @@
       <created>1417710556883</created>
       <option name="number" value="Default" />
       <updated>1417710556883</updated>
-      <workItem from="1417710560053" duration="13516000" />
+      <workItem from="1417710560053" duration="13634000" />
     </task>
     <task id="LOCAL-00001" summary="Текстовый редактор;">
       <created>1417727422031</created>
@@ -474,11 +467,17 @@
       <option name="project" value="LOCAL" />
       <updated>1417728566232</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Текстовый редактор; &#10;&#10;Добавил кнопки:&#10;&#10;Underline пока не знаю, как сделать.&#10;&#10;Добавил включение-выключение bold и italic повторным нажатием на кнопки&#10;&#10;Хорошо бы вид нажатых кнопок менялся.&#10;&#10;">
+      <created>1417730238034</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1417730238034</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13516000" />
+    <option name="totallyTimeSpent" value="13634000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -551,7 +550,8 @@
     <MESSAGE value="Текстовый редактор" />
     <MESSAGE value="Текстовый редактор;" />
     <MESSAGE value="Текстовый редактор; &#10;&#10;Добавил кнопки:&#10;&#10;Bold'&#10;Italic;&#10;Underline;&#10;&#10;Пока не работают;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Текстовый редактор; &#10;&#10;Добавил кнопки:&#10;&#10;Bold'&#10;Italic;&#10;Underline;&#10;&#10;Пока не работают;" />
+    <MESSAGE value="Текстовый редактор; &#10;&#10;Добавил кнопки:&#10;&#10;Underline пока не знаю, как сделать.&#10;&#10;Добавил включение-выключение bold и italic повторным нажатием на кнопки&#10;&#10;Хорошо бы вид нажатых кнопок менялся.&#10;&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Текстовый редактор; &#10;&#10;Добавил кнопки:&#10;&#10;Underline пока не знаю, как сделать.&#10;&#10;Добавил включение-выключение bold и italic повторным нажатием на кнопки&#10;&#10;Хорошо бы вид нажатых кнопок менялся.&#10;&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
