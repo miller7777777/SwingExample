@@ -21,6 +21,8 @@ public class Main {
     private JButton underlineFontButton;
     private String buffer = "";
     private int fontSize = 25;
+    boolean boldFlag = false;
+    boolean italicFlag = false;
 
     public static void main(String[] args) {
         Main m = new Main();
@@ -103,8 +105,14 @@ public class Main {
             @Override
             public void actionPerformed(ActionEvent e) {
 
+                if(!boldFlag) {
+                    boldFlag = true;
+                    textArea.setFont(new Font("", Font.BOLD, fontSize));
+                }else {
+                    boldFlag = false;
+                    textArea.setFont(new Font("", Font.PLAIN, fontSize));
 
-                // textArea.setFont(new Font("Arial", 0, fontSize));
+                }
             }
         });
 
@@ -112,8 +120,16 @@ public class Main {
             @Override
             public void actionPerformed(ActionEvent e) {
 
+                if(!italicFlag) {
+                    italicFlag = true;
 
-                // textArea.setFont(new Font("Arial", 0, fontSize));
+
+                    textArea.setFont(new Font("", Font.ITALIC, fontSize));
+                }else {
+                    italicFlag = false;
+                    textArea.setFont(new Font("", Font.PLAIN, fontSize));
+
+                }
             }
         });
 
@@ -122,7 +138,7 @@ public class Main {
             public void actionPerformed(ActionEvent e) {
 
 
-                // textArea.setFont(new Font("Arial", 0, fontSize));
+                textArea.setFont(new Font("", Font.PLAIN, fontSize));
             }
         });
 

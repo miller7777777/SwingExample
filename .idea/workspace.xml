@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84c52824-b345-4991-8919-e50fab2fc55e" name="Default" comment="Текстовый редактор; s" />
-    <list id="4666d1ea-0377-4b39-906b-eecae15acf7b" name="Rejected commit: Default" comment="Текстовый редактор">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SwingExample.iml" />
+    <list default="true" id="84c52824-b345-4991-8919-e50fab2fc55e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main$1.class" afterPath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main$1.class" />
+      <change type="MODIFICATION" beforePath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main$2.class" afterPath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main$2.class" />
+      <change type="MODIFICATION" beforePath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main$3.class" afterPath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main$3.class" />
+      <change type="MODIFICATION" beforePath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main$4.class" afterPath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main$4.class" />
+      <change type="MODIFICATION" beforePath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main$5.class" afterPath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main$5.class" />
+      <change type="MODIFICATION" beforePath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main.class" afterPath="D:\Java\LevelUp_Basic_corse\SwingExample\out\production\SwingExample\com\Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/Main.java" afterPath="$PROJECT_DIR$/src/com/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
+    <list id="4666d1ea-0377-4b39-906b-eecae15acf7b" name="Rejected commit: Default" comment="Текстовый редактор" />
     <ignored path="SwingExample.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,20 +39,26 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46575344" vertical-offset="640" max-vertical-offset="2808">
-              <caret line="38" column="76" selection-start-line="38" selection-start-column="76" selection-end-line="38" selection-end-column="76" />
+            <state vertical-scroll-proportion="0.31070495" vertical-offset="2473" max-vertical-offset="4104">
+              <caret line="108" column="36" selection-start-line="108" selection-start-column="36" selection-end-line="108" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1680#1850#0" expanded="true" />
-                <element signature="e#1849#1850#0" expanded="true" />
-                <element signature="e#1891#2086#0" expanded="true" />
-                <element signature="e#2085#2086#0" expanded="true" />
-                <element signature="e#2128#2291#0" expanded="true" />
-                <element signature="e#2290#2291#0" expanded="true" />
-                <element signature="e#2334#2554#0" expanded="true" />
-                <element signature="e#2553#2554#0" expanded="true" />
-                <element signature="e#2599#2819#0" expanded="true" />
-                <element signature="e#2818#2819#0" expanded="true" />
+                <element signature="e#2009#2179#0" expanded="true" />
+                <element signature="e#2178#2179#0" expanded="true" />
+                <element signature="e#2220#2415#0" expanded="true" />
+                <element signature="e#2414#2415#0" expanded="true" />
+                <element signature="e#2457#2620#0" expanded="true" />
+                <element signature="e#2619#2620#0" expanded="true" />
+                <element signature="e#2663#2883#0" expanded="true" />
+                <element signature="e#2882#2883#0" expanded="true" />
+                <element signature="e#2930#3150#0" expanded="true" />
+                <element signature="e#3149#3150#0" expanded="true" />
+                <element signature="e#3195#3618#0" expanded="true" />
+                <element signature="e#3617#3618#0" expanded="true" />
+                <element signature="e#3665#4098#0" expanded="true" />
+                <element signature="e#4097#4098#0" expanded="true" />
+                <element signature="e#4148#4345#0" expanded="true" />
+                <element signature="e#4344#4345#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -434,6 +446,11 @@
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -443,7 +460,7 @@
       <created>1417710556883</created>
       <option name="number" value="Default" />
       <updated>1417710556883</updated>
-      <workItem from="1417710560053" duration="11047000" />
+      <workItem from="1417710560053" duration="13516000" />
     </task>
     <task id="LOCAL-00001" summary="Текстовый редактор;">
       <created>1417727422031</created>
@@ -451,11 +468,17 @@
       <option name="project" value="LOCAL" />
       <updated>1417727422031</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Текстовый редактор; &#10;&#10;Добавил кнопки:&#10;&#10;Bold'&#10;Italic;&#10;Underline;&#10;&#10;Пока не работают;">
+      <created>1417728566232</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1417728566232</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11047000" />
+    <option name="totallyTimeSpent" value="13516000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -479,7 +502,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -492,10 +515,10 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11422088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11422088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -527,7 +550,8 @@
     </option>
     <MESSAGE value="Текстовый редактор" />
     <MESSAGE value="Текстовый редактор;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Текстовый редактор;" />
+    <MESSAGE value="Текстовый редактор; &#10;&#10;Добавил кнопки:&#10;&#10;Bold'&#10;Italic;&#10;Underline;&#10;&#10;Пока не работают;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Текстовый редактор; &#10;&#10;Добавил кнопки:&#10;&#10;Bold'&#10;Italic;&#10;Underline;&#10;&#10;Пока не работают;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -540,20 +564,26 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46575344" vertical-offset="640" max-vertical-offset="2808">
-          <caret line="38" column="76" selection-start-line="38" selection-start-column="76" selection-end-line="38" selection-end-column="76" />
+        <state vertical-scroll-proportion="0.31070495" vertical-offset="2473" max-vertical-offset="4104">
+          <caret line="108" column="36" selection-start-line="108" selection-start-column="36" selection-end-line="108" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1680#1850#0" expanded="true" />
-            <element signature="e#1849#1850#0" expanded="true" />
-            <element signature="e#1891#2086#0" expanded="true" />
-            <element signature="e#2085#2086#0" expanded="true" />
-            <element signature="e#2128#2291#0" expanded="true" />
-            <element signature="e#2290#2291#0" expanded="true" />
-            <element signature="e#2334#2554#0" expanded="true" />
-            <element signature="e#2553#2554#0" expanded="true" />
-            <element signature="e#2599#2819#0" expanded="true" />
-            <element signature="e#2818#2819#0" expanded="true" />
+            <element signature="e#2009#2179#0" expanded="true" />
+            <element signature="e#2178#2179#0" expanded="true" />
+            <element signature="e#2220#2415#0" expanded="true" />
+            <element signature="e#2414#2415#0" expanded="true" />
+            <element signature="e#2457#2620#0" expanded="true" />
+            <element signature="e#2619#2620#0" expanded="true" />
+            <element signature="e#2663#2883#0" expanded="true" />
+            <element signature="e#2882#2883#0" expanded="true" />
+            <element signature="e#2930#3150#0" expanded="true" />
+            <element signature="e#3149#3150#0" expanded="true" />
+            <element signature="e#3195#3618#0" expanded="true" />
+            <element signature="e#3617#3618#0" expanded="true" />
+            <element signature="e#3665#4098#0" expanded="true" />
+            <element signature="e#4097#4098#0" expanded="true" />
+            <element signature="e#4148#4345#0" expanded="true" />
+            <element signature="e#4344#4345#0" expanded="true" />
           </folding>
         </state>
       </provider>
